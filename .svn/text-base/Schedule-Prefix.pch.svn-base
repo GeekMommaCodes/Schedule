@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Schedule' target in the 'Schedule' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+//    #import "../Controller/PearTabBarController.h"
+//    #import "../Controller/PearDataModelController.h"
+//    #import "../Dashboard/PearDashboardDateTimeiPhoneCell.h"
+//    #import "../Dashboard/PearTableViewControllerDashboard.h"
+//    #import "../Dashboard/PearViewControllerDashboard.h"
+//    #import "../ToDo/PearTableViewControllerToDo.h"
+//    #import "../Today/PearTableViewControllerToday.h"
+//    #import "../Setup/PearViewControllerSetup.h"
+#endif

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/apps/!svn/ver/185/01_trunk/01_projects/Schedule/Today
+END
+PearViewControllerTodayDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/apps/!svn/ver/87/01_trunk/01_projects/Schedule/Today/PearViewControllerTodayDetailViewController.h
+END
+PearEntryToday.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Today/PearEntryToday.h
+END
+PearViewControllerTodayDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/apps/!svn/ver/92/01_trunk/01_projects/Schedule/Today/PearViewControllerTodayDetailViewController.m
+END
+PearEntryToday.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Today/PearEntryToday.m
+END
+PearTableViewControllerToday.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/apps/!svn/ver/87/01_trunk/01_projects/Schedule/Today/PearTableViewControllerToday.h
+END
+PearViewControllerTodayNewEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Today/PearViewControllerTodayNewEntry.h
+END
+PearTableViewControllerToday.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/apps/!svn/ver/185/01_trunk/01_projects/Schedule/Today/PearTableViewControllerToday.m
+END
+PearViewControllerTodayNewEntry.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/apps/!svn/ver/91/01_trunk/01_projects/Schedule/Today/PearViewControllerTodayNewEntry.m
+END

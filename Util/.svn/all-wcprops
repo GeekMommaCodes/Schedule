@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util
+END
+PearSchoolHour.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/apps/!svn/ver/27/01_trunk/01_projects/Schedule/Util/PearSchoolHour.h
+END
+PearSchoolSubject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearSchoolSubject.h
+END
+PearTableViewCollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearTableViewCollector.h
+END
+PearWeekDay.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearWeekDay.h
+END
+PearSchoolHour.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearSchoolHour.m
+END
+PearSchoolSubject.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearSchoolSubject.m
+END
+PearTableViewCollector.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearTableViewCollector.m
+END
+PearWeekDay.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/apps/!svn/ver/61/01_trunk/01_projects/Schedule/Util/PearWeekDay.m
+END

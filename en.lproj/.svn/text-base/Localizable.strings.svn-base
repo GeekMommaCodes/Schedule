@@ -1,0 +1,112 @@
+/* 
+  Localizable.strings
+  Schedule
+
+  Created by Sven Bär on 22.03.12.
+  Copyright (c) 2012 amball business-software. All rights reserved.
+*/
+
+/*--------------------------------------------*/
+/* --- Dash Section Labels ----- */
+
+"Dash.sections.today" = "Today";
+"Dash.sections.todo" = "ToDo";
+"Dash.sectionheader.color" = "sectionheader";
+
+
+/*-------------------------------------------*/
+/* PickerView-Labels */
+"Monday.picker" = "Monday";
+"Tuesday.picker" = "Tuesday";
+"Wednesday.picker" = "Wednesday";
+"Thursday.picker" = "Thursday";
+"Friday.picker" = "Friday";
+"Saturday.picker" = "Saturday";
+"Sunday.picker" = "Sunday";
+
+"color.white" = "white";
+"color.yellow" = "yellow";
+"color.red" = "red";
+"color.orange" = "orange";
+"color.violett" = "violett";
+"color.blue" = "blue";
+"color.green" = "green";
+"color.gray" = "gray";
+"color.pink" = "pink";
+"color.brown" = "brown";
+
+
+/*-------------------------------------------*/
+/* General Labels */
+
+/* Label for Back-Button */
+"BackButton.label" = "Back";
+
+/* Label for Due Label */
+"Due.label" = "Due";
+/* Label for School Subject Label */
+"SchoolSubject.label" = "School Subject";
+/* Label for Subject Label */
+"Subject.label" = "Subject";
+/* Label for Note Label */
+"Note.label" = "Note";
+/* Label for Section-Header "Schoolhour" */
+"Schoolhour.section" = "Schoolhours";
+/* Label for Section-Header "ToDo" */
+"ToDo.section" = "ToDos";
+/*-------------------------------------------*/
+/* Labels for the Today-View */
+/*Label for Room Label */
+"Room.label" = "Room";
+/*Label for Hour Label */
+"Hour.label" = "Lesson";
+/*Label for Teacher Label */
+"Teacher.label" = "Teacher";
+/*Label for Weekday Label */
+"Weekday.label" = "Weekday";
+ 
+/*-------------------------------------------*/
+/* Labels for the Setup-View */
+
+/* Label for iCloud-Sync Label */
+"iCloudSetup.label" = "Syncing with iCloud";
+/*Label for 6-Days Week Label */
+"SixDaysSetup.label" = "6-Days Week";
+/*Label for Badge Label */
+"BadgeSetup.label" = "Badge";
+/*Label for Button Label */
+"Button.Hour.add" = "Add Hour";
+/*Label for Starttime Label */
+"Starttime.label" = "Begin";
+/*Label for Enddtime Label */
+"Endtime.label" = "End";
+/*Label for Pause Label */
+"Pause.label" = "Pause";
+/*Label for Button "SchoolSubject" Label*/
+"Button.SchoolSubject.add" = "Add Schoolsubject";
+/*Label for Color Label */
+"Color.label" = "Color";
+
+/*------------------------------------------*/
+/* Labels for Alers */
+
+/* Label for Save-Button */
+"Alert.Save.label" = "Save";
+/* Label for Cancel-Button */
+"Alert.Cancel.label" = "Cancel";
+/* Text for Save ToDo-Entry successful */
+"Alert.SaveToDoEntrySuccessful.text" = "This ToDo-Entry was saved successful.";
+/* Text for Save ToDo-Entry wasn´t successful */
+"Alert.SaveToDoEntryWasntSuccessful.text" = "This ToDo-Entry wasn´t saved successful. Please try again.";
+/* Text for Save Today-Entry successful */
+"Alert.SaveTodayEntrySuccessful.text" = "This Schoolhour-Entry was saved successful.";
+/* Text for Save Today-Entry wasn´t successful */
+"Alert.SaveTodayEntryWasntSuccessful.text" = "This Schoolhour-Entry wasn´t saved successful. Please try again.";
+/* Text for Save Hour-Entry successful */
+"Alert.SaveHourEntrySuccessful.text" = "This Hour-Entry was saved successful.";
+/* Text for Save Hour-Entry wasn´t successful */
+"Alert.SaveHourEntryWasntSuccessful.text" = "This Hour-Entry wasn´t saved successful. Please try again.";
+/* Text for add first schoolhour. */
+"Alert.AddSchoolHour.text" = "Please define in tab Setup a schoolhour first.";
+/* Text for add first schoolhour. */
+"Alert.AddSchoolSubject.text" = "Please define in tab Setup a schoolsubject first.";

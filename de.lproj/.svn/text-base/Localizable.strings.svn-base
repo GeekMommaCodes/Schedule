@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  Schedule
+
+  Created by Sven Bär on 22.03.12.
+  Copyright (c) 2012 Fruit-IT. All rights reserved.
+*/
+
+/*--------------------------------------------*/
+/* --- Dash Section Labels ----- */
+
+"Dash.sections.today" = "Heutige Stunden";
+"Dash.sections.todo" = "Aufgaben";
+
+/*-------------------------------------------*/
+/* PickerView-Labels */
+"Monday.picker" = "Montag";
+"Tuesday.picker" = "Dienstag";
+"Wednesday.picker" = "Mittwoch";
+"Thursday.picker" = "Donnerstag";
+"Friday.picker" = "Freitag";
+"Saturday.picker" = "Samstag";
+"Sunday.picker" = "Sonntag";
+
+"color.white" = "weiß";
+"color.yellow" = "gelb";
+"color.red" = "rot";
+"color.orange" = "orange";
+"color.violett" = "violett";
+"color.blue" = "blau";
+"color.green" = "grün";
+"color.gray" = "grau";
+"color.pink" = "pink";
+"color.brown" = "braun";
+
+/*-------------------------------------------*/
+/* General Labels */
+
+/* Label for Back-Button */
+"BackButton.label" = "Zurück";
+
+/* Label for School Subject Label */
+"SchoolSubject.label" = "Schulfach";
+/* Label for Due Label */
+"Due.label" = "Fällig";
+/* Label for Subject Label */
+"Subject.label" = "Betreff";
+/* Label for Note Label */
+"Note.label" = "Notizen";
+/* Label for Section-Header "Schoolhour" */
+"Schoolhour.section" = "Schulstunden";
+/* Label for Section-Header "ToDo" */
+"ToDo.section" = "Aufgaben";
+
+/*-------------------------------------------*/
+/* Labels for the Today-View */
+/*Label for Room Label */
+"Room.label" = "Raum";
+/*Label for Hour Label */
+"Hour.label" = "Stunde";
+/*Label for Teacher Label */
+"Teacher.label" = "Lehrer";
+/*Label for Weekday Label */
+"Weekday.label" = "Wochentag";
+
+/*-------------------------------------------*/
+/* Labels for the Setup-View */
+
+/* Label for iCloud-Sync Label */
+"iCloudSetup.label" = "iCloud synchronisieren";
+/*Label for 6-Days Week Label */
+"SixDaysSetup.label" = "6-Tage Woche";
+/*Label for Badge Label */
+"BadgeSetup.label" = "Badge";
+/*Label for Button Label */
+"Button.Hour.add" = "Stunde hinzufügen";
+/*Label for Starttime Label */
+"Starttime.label" = "Beginn";
+/*Label for Endtime Label */
+"Endtime.label" = "Ende";
+/*Label for Pause Label */
+"Pause.label" = "Pause";
+/*Label for Button "SchoolSubject" Label*/
+"Button.SchoolSubject.add" = "Schulfach hinzufügen";
+/*Label for Color Label */
+"Color.label" = "Farbe";
+
+/*------------------------------------------*/
+/* Labels for Alerts */
+
+/* Label for Save-Button */
+"Alert.Save.label" = "Sichern";
+/* Label for Cancel-Button */
+"Alert.Cancel.label" = "Abbrechen";
+/* Text for Save ToDo-Entry successful */
+"Alert.SaveToDoEntrySuccessful.text" = "Das Speichern der Aufgabe war erfolgreich.";
+/* Text for Save ToDo-Entry wasn´t successful */
+"Alert.SaveToDoEntryWasntSuccessful.text" = "Beim Speichern der Aufgabe ist ein Fehler aufgetreten. Bitte erneut anlegen.";
+/* Text for Save Today-Entry successful */
+"Alert.SaveTodayEntrySuccessful.text" = "Das Speichern der Stunde war erfolgreich.";
+/* Text for Save Today-Entry wasn´t successful */
+"Alert.SaveTodayEntryWasntSuccessful.text" = "Beim Speichern der Stunde ist ein Fehler aufgetreten. Bitte erneut anlegen.";
+/* Text for Save Hour-Entry successful */
+"Alert.SaveHourEntrySuccessful.text" = "Das Speichern der Stunde war erfolgreich.";
+/* Text for Save Hour-Entry wasn´t successful */
+"Alert.SaveHourEntryWasntSuccessful.text" = "Beim Speichern der Stunde ist ein Fehler aufgetreten. Bitte erneut anlegen.";
+/* Text for add first schoolhour. */
+"Alert.AddSchoolHour.text" = "Bitte definieren Sie im Register Setup erst Schulstunden.";
+/* Text for add first schoolhour. */
+"Alert.AddSchoolSubject.text" = "Bitte definieren Sie im Register Setup erst Schulfächer.";

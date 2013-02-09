@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1811" systemVersion="12C60" minimumToolsVersion="Xcode 4.1" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Color" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hex" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Exam" syncable="YES">
+        <attribute name="lesson" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="schoolSubject" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="Homework" syncable="YES">
+        <attribute name="col" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="due" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="schoolSubject" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="subject" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="HourModel" syncable="YES">
+        <attribute name="end" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pause" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="start" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Lesson" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Mark" syncable="YES">
+        <attribute name="mark" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="SchoolHour" syncable="YES">
+        <attribute name="col" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="day" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hour" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="room" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="schoolSubject" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacher" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SchoolSubject" syncable="YES">
+        <attribute name="col" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Setup" syncable="YES">
+        <attribute name="badge" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sixDays" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sync" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Started" syncable="YES">
+        <attribute name="started" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Color" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="Exam" positionX="160" positionY="192" width="128" height="105"/>
+        <element name="Homework" positionX="160" positionY="192" width="128" height="120"/>
+        <element name="HourModel" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="Lesson" positionX="160" positionY="192" width="128" height="60"/>
+        <element name="Mark" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="SchoolHour" positionX="160" positionY="192" width="128" height="135"/>
+        <element name="SchoolSubject" positionX="160" positionY="192" width="128" height="75"/>
+        <element name="Setup" positionX="160" positionY="192" width="128" height="90"/>
+        <element name="Started" positionX="160" positionY="192" width="128" height="60"/>
+    </elements>
+</model>

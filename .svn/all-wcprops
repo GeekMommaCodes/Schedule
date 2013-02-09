@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/apps/!svn/ver/231/01_trunk/01_projects/Schedule
+END
+Schedule-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/apps/!svn/ver/181/01_trunk/01_projects/Schedule/Schedule-Info.plist
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/apps/!svn/ver/78/01_trunk/01_projects/Schedule/main.m
+END
+Schedule-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/apps/!svn/ver/23/01_trunk/01_projects/Schedule/Schedule-Prefix.pch
+END
+PearMainViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/apps/!svn/ver/78/01_trunk/01_projects/Schedule/PearMainViewController.h
+END
+TestFlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/apps/!svn/ver/168/01_trunk/01_projects/Schedule/TestFlight.h
+END
+PearMainViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/apps/!svn/ver/78/01_trunk/01_projects/Schedule/PearMainViewController.m
+END
+PearAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/apps/!svn/ver/167/01_trunk/01_projects/Schedule/PearAppDelegate.h
+END
+PearAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/apps/!svn/ver/178/01_trunk/01_projects/Schedule/PearAppDelegate.m
+END
